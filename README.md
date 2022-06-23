@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kgotsoBapela
 - 👀 I’m interested in fullstack dev
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me email; kgotso.bapela@gmail.com
 
 <!---
 kgotsoBapela/kgotsoBapela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
