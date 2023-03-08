@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kgotsoBapela
 - 👀 I’m a fullstack developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & Angular front-end Framework
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me email; kgotso.bapela@gmail.com
 
